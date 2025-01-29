@@ -27,20 +27,12 @@ pip install flask
 How to Run the Application
 Clone the repository:
 
-Copy
-Edit
 git clone <repository-URL>
 cd feedback_app
 Run the Flask server:
 
-
-Copy
-Edit
 python app.py
 Open a web browser and go to:
 
-arduino
-Copy
-Edit
 http://127.0.0.1:5000
 Fill out the feedback form and submit it. The feedback will be saved in the feedback_data.txt file.
