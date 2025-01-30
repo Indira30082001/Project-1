@@ -18,7 +18,7 @@ def submit_feedback():
     with open('feedback_data.txt', 'a') as f:
         f.write(f"Name: {name}\nEmail: {email}\nMessage: {message}\n{'-'*40}\n")
     
-    return f"<h1>Thank you, {name}! Your feedback has been received.</h1>"
+    return f"<h1>Thank you, {name}! Your feedback has been received. Visit again</h1>"
 
 if __name__ == '__main__':
     app.run(debug=True)
