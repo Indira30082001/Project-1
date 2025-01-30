@@ -40,4 +40,3 @@ Open a web browser and go to:
 
 http://127.0.0.1:5000
 Fill out the feedback form and submit it. The feedback will be saved in the feedback_data.txt file.
-The application works!
